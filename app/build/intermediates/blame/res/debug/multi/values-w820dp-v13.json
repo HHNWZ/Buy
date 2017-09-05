@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\user\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+        "outputFile": "D:\\work\\Android\\Buy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 108
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "file": "D:\\work\\Android\\Buy\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -24,7 +24,7 @@
         ]
     },
     {
-        "outputFile": "C:\\Users\\billy\\Desktop\\App\\app\\4.26\\MyApplication2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+        "outputFile": "D:\\1\\Android\\Buy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -35,79 +35,7 @@
                     "endOffset": 108
                 },
                 "from": {
-                    "file": "C:\\Users\\billy\\Desktop\\App\\app\\4.26\\MyApplication2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 295,
-                        "endColumn": 57,
-                        "endOffset": 348
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "C:\\Users\\billy\\Desktop\\App\\app\\6.1\\MyApplication2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 57,
-                    "endOffset": 108
-                },
-                "from": {
-                    "file": "C:\\Users\\billy\\Desktop\\App\\app\\6.1\\MyApplication2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 295,
-                        "endColumn": 57,
-                        "endOffset": 348
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "C:\\Users\\billy\\Desktop\\App\\MyApplication2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 57,
-                    "endOffset": 108
-                },
-                "from": {
-                    "file": "C:\\Users\\billy\\Desktop\\App\\MyApplication2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 295,
-                        "endColumn": 57,
-                        "endOffset": 348
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "C:\\Users\\billy\\Downloads\\MyApplication2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 57,
-                    "endOffset": 108
-                },
-                "from": {
-                    "file": "C:\\Users\\billy\\Downloads\\MyApplication2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "file": "D:\\1\\Android\\Buy\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

@@ -1,322 +1,130 @@
 [
     {
-        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
-        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\anim\\design_snackbar_out.xml"
+        "merged": "D:\\1\\Android\\Buy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\888888888\\.android\\build-cache\\bbb694666630db9c6d7c8fa14a219eb6885585ee\\output\\res\\anim\\abc_slide_out_top.xml"
     },
     {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\app\\4.26\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\app\\4.26\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\anim\\design_bottom_sheet_slide_in.xml"
+        "merged": "D:\\work\\Android\\Buy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\888888888\\.android\\build-cache\\bbb694666630db9c6d7c8fa14a219eb6885585ee\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
     },
     {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\app\\6.1\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\app\\6.1\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\anim\\design_fab_in.xml"
+        "merged": "D:\\1\\Android\\Buy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\888888888\\.android\\build-cache\\bbb694666630db9c6d7c8fa14a219eb6885585ee\\output\\res\\anim\\abc_popup_enter.xml"
     },
     {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\app\\6.1\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\app\\6.1\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_slide_in_top.xml"
+        "merged": "D:\\1\\Android\\Buy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\888888888\\.android\\build-cache\\37535eb77bcf31596916650afb27e4d189df2472\\output\\res\\anim\\design_snackbar_in.xml"
     },
     {
-        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+        "merged": "D:\\work\\Android\\Buy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\888888888\\.android\\build-cache\\bbb694666630db9c6d7c8fa14a219eb6885585ee\\output\\res\\anim\\abc_popup_enter.xml"
     },
     {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\app\\6.1\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\app\\6.1\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\anim\\design_bottom_sheet_slide_out.xml"
+        "merged": "D:\\work\\Android\\Buy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\888888888\\.android\\build-cache\\bbb694666630db9c6d7c8fa14a219eb6885585ee\\output\\res\\anim\\abc_popup_exit.xml"
     },
     {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\app\\6.1\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\app\\6.1\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\anim\\design_snackbar_out.xml"
+        "merged": "D:\\work\\Android\\Buy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\888888888\\.android\\build-cache\\bbb694666630db9c6d7c8fa14a219eb6885585ee\\output\\res\\anim\\abc_fade_in.xml"
     },
     {
-        "merged": "C:\\Users\\billy\\Downloads\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
-        "source": "C:\\Users\\billy\\Downloads\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\anim\\design_snackbar_in.xml"
+        "merged": "D:\\work\\Android\\Buy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\888888888\\.android\\build-cache\\bbb694666630db9c6d7c8fa14a219eb6885585ee\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
-        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
-        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\anim\\design_bottom_sheet_slide_in.xml"
+        "merged": "D:\\work\\Android\\Buy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\888888888\\.android\\build-cache\\bbb694666630db9c6d7c8fa14a219eb6885585ee\\output\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\app\\6.1\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\app\\6.1\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_slide_in_bottom.xml"
+        "merged": "D:\\1\\Android\\Buy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\888888888\\.android\\build-cache\\bbb694666630db9c6d7c8fa14a219eb6885585ee\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\app\\4.26\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\app\\4.26\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\anim\\design_snackbar_out.xml"
+        "merged": "D:\\work\\Android\\Buy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\888888888\\.android\\build-cache\\37535eb77bcf31596916650afb27e4d189df2472\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
     },
     {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+        "merged": "D:\\work\\Android\\Buy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\888888888\\.android\\build-cache\\37535eb77bcf31596916650afb27e4d189df2472\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
     },
     {
-        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
-        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_slide_in_top.xml"
+        "merged": "D:\\work\\Android\\Buy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\888888888\\.android\\build-cache\\37535eb77bcf31596916650afb27e4d189df2472\\output\\res\\anim\\design_snackbar_in.xml"
     },
     {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\anim\\design_fab_in.xml"
+        "merged": "D:\\work\\Android\\Buy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\888888888\\.android\\build-cache\\bbb694666630db9c6d7c8fa14a219eb6885585ee\\output\\res\\anim\\abc_fade_out.xml"
     },
     {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\anim\\design_fab_out.xml"
+        "merged": "D:\\work\\Android\\Buy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\888888888\\.android\\build-cache\\bbb694666630db9c6d7c8fa14a219eb6885585ee\\output\\res\\anim\\abc_slide_in_top.xml"
     },
     {
-        "merged": "C:\\Users\\billy\\Downloads\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "C:\\Users\\billy\\Downloads\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_slide_out_top.xml"
+        "merged": "D:\\work\\Android\\Buy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\888888888\\.android\\build-cache\\37535eb77bcf31596916650afb27e4d189df2472\\output\\res\\anim\\design_fab_in.xml"
     },
     {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\app\\6.1\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\app\\6.1\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_fade_out.xml"
+        "merged": "D:\\1\\Android\\Buy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\888888888\\.android\\build-cache\\37535eb77bcf31596916650afb27e4d189df2472\\output\\res\\anim\\design_fab_in.xml"
     },
     {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\app\\4.26\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\app\\4.26\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_fade_out.xml"
+        "merged": "D:\\1\\Android\\Buy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\888888888\\.android\\build-cache\\bbb694666630db9c6d7c8fa14a219eb6885585ee\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
     },
     {
-        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
-        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\anim\\design_snackbar_in.xml"
+        "merged": "D:\\1\\Android\\Buy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\888888888\\.android\\build-cache\\37535eb77bcf31596916650afb27e4d189df2472\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
     },
     {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_slide_in_top.xml"
+        "merged": "D:\\1\\Android\\Buy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\888888888\\.android\\build-cache\\bbb694666630db9c6d7c8fa14a219eb6885585ee\\output\\res\\anim\\abc_popup_exit.xml"
     },
     {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\anim\\design_snackbar_in.xml"
+        "merged": "D:\\1\\Android\\Buy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\888888888\\.android\\build-cache\\37535eb77bcf31596916650afb27e4d189df2472\\output\\res\\anim\\design_snackbar_out.xml"
     },
     {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\app\\4.26\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\app\\4.26\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\anim\\design_fab_out.xml"
+        "merged": "D:\\work\\Android\\Buy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\888888888\\.android\\build-cache\\37535eb77bcf31596916650afb27e4d189df2472\\output\\res\\anim\\design_fab_out.xml"
     },
     {
-        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+        "merged": "D:\\1\\Android\\Buy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\888888888\\.android\\build-cache\\bbb694666630db9c6d7c8fa14a219eb6885585ee\\output\\res\\anim\\abc_slide_in_top.xml"
     },
     {
-        "merged": "C:\\Users\\billy\\Downloads\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
-        "source": "C:\\Users\\billy\\Downloads\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_popup_enter.xml"
+        "merged": "D:\\1\\Android\\Buy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\888888888\\.android\\build-cache\\37535eb77bcf31596916650afb27e4d189df2472\\output\\res\\anim\\design_fab_out.xml"
     },
     {
-        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
-        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_popup_enter.xml"
+        "merged": "D:\\work\\Android\\Buy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\888888888\\.android\\build-cache\\37535eb77bcf31596916650afb27e4d189df2472\\output\\res\\anim\\design_snackbar_out.xml"
     },
     {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\app\\6.1\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\app\\6.1\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\anim\\design_snackbar_in.xml"
+        "merged": "D:\\1\\Android\\Buy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\888888888\\.android\\build-cache\\37535eb77bcf31596916650afb27e4d189df2472\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
     },
     {
-        "merged": "C:\\Users\\billy\\Downloads\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
-        "source": "C:\\Users\\billy\\Downloads\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\anim\\design_bottom_sheet_slide_out.xml"
+        "merged": "D:\\1\\Android\\Buy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\888888888\\.android\\build-cache\\bbb694666630db9c6d7c8fa14a219eb6885585ee\\output\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
-        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
-        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\anim\\design_fab_in.xml"
+        "merged": "D:\\1\\Android\\Buy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\888888888\\.android\\build-cache\\bbb694666630db9c6d7c8fa14a219eb6885585ee\\output\\res\\anim\\abc_fade_in.xml"
     },
     {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\app\\4.26\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\app\\4.26\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_slide_out_top.xml"
+        "merged": "D:\\1\\Android\\Buy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\888888888\\.android\\build-cache\\bbb694666630db9c6d7c8fa14a219eb6885585ee\\output\\res\\anim\\abc_fade_out.xml"
     },
     {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\app\\4.26\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\app\\4.26\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+        "merged": "D:\\work\\Android\\Buy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\888888888\\.android\\build-cache\\bbb694666630db9c6d7c8fa14a219eb6885585ee\\output\\res\\anim\\abc_slide_in_bottom.xml"
     },
     {
-        "merged": "C:\\Users\\billy\\Downloads\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
-        "source": "C:\\Users\\billy\\Downloads\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\anim\\design_fab_out.xml"
+        "merged": "D:\\work\\Android\\Buy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\888888888\\.android\\build-cache\\bbb694666630db9c6d7c8fa14a219eb6885585ee\\output\\res\\anim\\abc_slide_out_top.xml"
     },
     {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_slide_out_bottom.xml"
-    },
-    {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
-    },
-    {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\anim\\design_bottom_sheet_slide_out.xml"
-    },
-    {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_fade_out.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_slide_out_top.xml"
-    },
-    {
-        "merged": "C:\\Users\\billy\\Downloads\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
-        "source": "C:\\Users\\billy\\Downloads\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_slide_in_top.xml"
-    },
-    {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\app\\4.26\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\app\\4.26\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
-    },
-    {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\app\\6.1\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\app\\6.1\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_popup_exit.xml"
-    },
-    {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\app\\6.1\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\app\\6.1\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_slide_out_top.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
-        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\anim\\design_fab_out.xml"
-    },
-    {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\app\\6.1\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\app\\6.1\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
-    },
-    {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\app\\6.1\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\app\\6.1\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\anim\\design_bottom_sheet_slide_in.xml"
-    },
-    {
-        "merged": "C:\\Users\\billy\\Downloads\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "C:\\Users\\billy\\Downloads\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
-    },
-    {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_slide_out_top.xml"
-    },
-    {
-        "merged": "C:\\Users\\billy\\Downloads\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "C:\\Users\\billy\\Downloads\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
-    },
-    {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\app\\4.26\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\app\\4.26\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_slide_out_bottom.xml"
-    },
-    {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_popup_enter.xml"
-    },
-    {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\app\\6.1\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\app\\6.1\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_fade_in.xml"
-    },
-    {
-        "merged": "C:\\Users\\billy\\Downloads\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
-        "source": "C:\\Users\\billy\\Downloads\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\anim\\design_fab_in.xml"
-    },
-    {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_fade_in.xml"
-    },
-    {
-        "merged": "C:\\Users\\billy\\Downloads\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
-        "source": "C:\\Users\\billy\\Downloads\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\anim\\design_snackbar_out.xml"
-    },
-    {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\app\\6.1\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\app\\6.1\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\anim\\design_fab_out.xml"
-    },
-    {
-        "merged": "C:\\Users\\billy\\Downloads\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
-        "source": "C:\\Users\\billy\\Downloads\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_slide_out_bottom.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
-        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_fade_in.xml"
-    },
-    {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\app\\6.1\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\app\\6.1\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_slide_out_bottom.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
-        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_fade_out.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
-        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_slide_out_bottom.xml"
-    },
-    {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\app\\4.26\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\app\\4.26\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\anim\\design_fab_in.xml"
-    },
-    {
-        "merged": "C:\\Users\\billy\\Downloads\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
-        "source": "C:\\Users\\billy\\Downloads\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_popup_exit.xml"
-    },
-    {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\app\\6.1\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\app\\6.1\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_popup_enter.xml"
-    },
-    {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\app\\4.26\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\app\\4.26\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_slide_in_bottom.xml"
-    },
-    {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\app\\4.26\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\app\\4.26\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\anim\\design_snackbar_in.xml"
-    },
-    {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\anim\\design_snackbar_out.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
-        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\anim\\design_bottom_sheet_slide_out.xml"
-    },
-    {
-        "merged": "C:\\Users\\billy\\Downloads\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
-        "source": "C:\\Users\\billy\\Downloads\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_fade_in.xml"
-    },
-    {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\app\\4.26\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\app\\4.26\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_fade_in.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
-        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_popup_exit.xml"
-    },
-    {
-        "merged": "C:\\Users\\billy\\Downloads\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "C:\\Users\\billy\\Downloads\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_slide_in_bottom.xml"
-    },
-    {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\app\\4.26\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\app\\4.26\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\anim\\design_bottom_sheet_slide_out.xml"
-    },
-    {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\app\\4.26\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\app\\4.26\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_popup_enter.xml"
-    },
-    {
-        "merged": "C:\\Users\\billy\\Downloads\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
-        "source": "C:\\Users\\billy\\Downloads\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_fade_out.xml"
-    },
-    {
-        "merged": "C:\\Users\\billy\\Downloads\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
-        "source": "C:\\Users\\billy\\Downloads\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\anim\\design_bottom_sheet_slide_in.xml"
-    },
-    {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\app\\6.1\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\app\\6.1\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
-    },
-    {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_popup_exit.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_slide_in_bottom.xml"
-    },
-    {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\app\\4.26\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\app\\4.26\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_slide_in_top.xml"
-    },
-    {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\anim\\design_bottom_sheet_slide_in.xml"
-    },
-    {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_slide_in_bottom.xml"
-    },
-    {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\app\\4.26\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\app\\4.26\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_popup_exit.xml"
+        "merged": "D:\\1\\Android\\Buy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\888888888\\.android\\build-cache\\bbb694666630db9c6d7c8fa14a219eb6885585ee\\output\\res\\anim\\abc_slide_in_bottom.xml"
     }
 ]

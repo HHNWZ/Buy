@@ -1,42 +1,18 @@
 [
     {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+        "merged": "D:\\1\\Android\\Buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "C:\\Users\\888888888\\.android\\build-cache\\37535eb77bcf31596916650afb27e4d189df2472\\output\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
     },
     {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\app\\6.1\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\app\\6.1\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+        "merged": "D:\\work\\Android\\Buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "C:\\Users\\888888888\\.android\\build-cache\\37535eb77bcf31596916650afb27e4d189df2472\\output\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
     },
     {
-        "merged": "C:\\Users\\billy\\Downloads\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
-        "source": "C:\\Users\\billy\\Downloads\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+        "merged": "D:\\1\\Android\\Buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "C:\\Users\\888888888\\.android\\build-cache\\37535eb77bcf31596916650afb27e4d189df2472\\output\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
     },
     {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\app\\4.26\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\app\\4.26\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
-    },
-    {
-        "merged": "C:\\Users\\billy\\Downloads\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
-        "source": "C:\\Users\\billy\\Downloads\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
-    },
-    {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\app\\6.1\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\app\\6.1\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
-        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
-    },
-    {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\app\\4.26\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\app\\4.26\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
-        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
-    },
-    {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+        "merged": "D:\\work\\Android\\Buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "C:\\Users\\888888888\\.android\\build-cache\\37535eb77bcf31596916650afb27e4d189df2472\\output\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
     }
 ]

@@ -13,6 +13,7 @@ public class AddActivity extends AppCompatActivity {
     private EditText edInfo;
     private EditText edAmount;
     private MyDBHelper helper;
+    private EditText hello;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

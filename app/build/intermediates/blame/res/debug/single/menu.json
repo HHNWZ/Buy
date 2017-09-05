@@ -1,46 +1,26 @@
 [
     {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\app\\6.1\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\app\\6.1\\MyApplication2\\app\\src\\main\\res\\menu\\main.xml"
+        "merged": "D:\\work\\Android\\Buy\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\work\\Android\\Buy\\app\\src\\main\\res\\menu\\main.xml"
     },
     {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\app\\4.26\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\app\\4.26\\MyApplication2\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+        "merged": "D:\\1\\Android\\Buy\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "D:\\1\\Android\\Buy\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
     },
     {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\MyApplication2\\app\\src\\main\\res\\menu\\main.xml"
+        "merged": "D:\\work\\Android\\Buy\\app\\build\\intermediates\\res\\merged\\debug\\menu\\options_menu.xml",
+        "source": "D:\\work\\Android\\Buy\\app\\src\\main\\res\\menu\\options_menu.xml"
     },
     {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\MyApplication2\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+        "merged": "D:\\1\\Android\\Buy\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\1\\Android\\Buy\\app\\src\\main\\res\\menu\\main.xml"
     },
     {
-        "merged": "C:\\Users\\billy\\Downloads\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
-        "source": "C:\\Users\\billy\\Downloads\\MyApplication2\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+        "merged": "D:\\work\\Android\\Buy\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "D:\\work\\Android\\Buy\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
     },
     {
-        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
-        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\menu\\main.xml"
-    },
-    {
-        "merged": "C:\\Users\\billy\\Downloads\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
-        "source": "C:\\Users\\billy\\Downloads\\MyApplication2\\app\\src\\main\\res\\menu\\main.xml"
-    },
-    {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\app\\4.26\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\app\\4.26\\MyApplication2\\app\\src\\main\\res\\menu\\main.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
-        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
-    },
-    {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\app\\6.1\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\app\\6.1\\MyApplication2\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
-    },
-    {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\app\\6.1\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\options_menu.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\app\\6.1\\MyApplication2\\app\\src\\main\\res\\menu\\options_menu.xml"
+        "merged": "D:\\1\\Android\\Buy\\app\\build\\intermediates\\res\\merged\\debug\\menu\\options_menu.xml",
+        "source": "D:\\1\\Android\\Buy\\app\\src\\main\\res\\menu\\options_menu.xml"
     }
 ]

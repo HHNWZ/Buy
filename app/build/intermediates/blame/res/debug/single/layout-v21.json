@@ -1,82 +1,34 @@
 [
     {
-        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
-        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout-v21\\notification_template_custom_big.xml"
+        "merged": "D:\\1\\Android\\Buy\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\888888888\\.android\\build-cache\\bbb694666630db9c6d7c8fa14a219eb6885585ee\\output\\res\\layout-v21\\notification_template_icon_group.xml"
     },
     {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout-v21\\notification_action.xml"
+        "merged": "D:\\1\\Android\\Buy\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\888888888\\.android\\build-cache\\bbb694666630db9c6d7c8fa14a219eb6885585ee\\output\\res\\layout-v21\\notification_action_tombstone.xml"
     },
     {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\app\\4.26\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\app\\4.26\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout-v21\\notification_action.xml"
+        "merged": "D:\\work\\Android\\Buy\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\888888888\\.android\\build-cache\\bbb694666630db9c6d7c8fa14a219eb6885585ee\\output\\res\\layout-v21\\notification_template_custom_big.xml"
     },
     {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout-v21\\notification_template_icon_group.xml"
+        "merged": "D:\\work\\Android\\Buy\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\888888888\\.android\\build-cache\\bbb694666630db9c6d7c8fa14a219eb6885585ee\\output\\res\\layout-v21\\notification_action_tombstone.xml"
     },
     {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\app\\6.1\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\app\\6.1\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout-v21\\notification_action_tombstone.xml"
+        "merged": "D:\\1\\Android\\Buy\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\888888888\\.android\\build-cache\\bbb694666630db9c6d7c8fa14a219eb6885585ee\\output\\res\\layout-v21\\notification_template_custom_big.xml"
     },
     {
-        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
-        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout-v21\\notification_action.xml"
+        "merged": "D:\\1\\Android\\Buy\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\888888888\\.android\\build-cache\\bbb694666630db9c6d7c8fa14a219eb6885585ee\\output\\res\\layout-v21\\notification_action.xml"
     },
     {
-        "merged": "C:\\Users\\billy\\Downloads\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
-        "source": "C:\\Users\\billy\\Downloads\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout-v21\\notification_template_custom_big.xml"
+        "merged": "D:\\work\\Android\\Buy\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\888888888\\.android\\build-cache\\bbb694666630db9c6d7c8fa14a219eb6885585ee\\output\\res\\layout-v21\\notification_action.xml"
     },
     {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\app\\4.26\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\app\\4.26\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout-v21\\notification_template_icon_group.xml"
-    },
-    {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\app\\6.1\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\app\\6.1\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout-v21\\notification_template_icon_group.xml"
-    },
-    {
-        "merged": "C:\\Users\\billy\\Downloads\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
-        "source": "C:\\Users\\billy\\Downloads\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout-v21\\notification_template_icon_group.xml"
-    },
-    {
-        "merged": "C:\\Users\\billy\\Downloads\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
-        "source": "C:\\Users\\billy\\Downloads\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout-v21\\notification_action.xml"
-    },
-    {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\app\\6.1\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\app\\6.1\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout-v21\\notification_template_custom_big.xml"
-    },
-    {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\app\\4.26\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\app\\4.26\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout-v21\\notification_template_custom_big.xml"
-    },
-    {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\app\\4.26\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\app\\4.26\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout-v21\\notification_action_tombstone.xml"
-    },
-    {
-        "merged": "C:\\Users\\billy\\Downloads\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
-        "source": "C:\\Users\\billy\\Downloads\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout-v21\\notification_action_tombstone.xml"
-    },
-    {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout-v21\\notification_action_tombstone.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
-        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout-v21\\notification_template_icon_group.xml"
-    },
-    {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout-v21\\notification_template_custom_big.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
-        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout-v21\\notification_action_tombstone.xml"
-    },
-    {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\app\\6.1\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
-        "source": "C:\\Users\\billy\\Desktop\\App\\app\\6.1\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout-v21\\notification_action.xml"
+        "merged": "D:\\work\\Android\\Buy\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\888888888\\.android\\build-cache\\bbb694666630db9c6d7c8fa14a219eb6885585ee\\output\\res\\layout-v21\\notification_template_icon_group.xml"
     }
 ]

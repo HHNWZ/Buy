@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\billy\\Desktop\\App\\MyApplication2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v12\\values-v12.xml",
+        "outputFile": "D:\\1\\Android\\Buy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v12\\values-v12.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 274
                 },
                 "from": {
-                    "file": "C:\\Users\\billy\\Desktop\\App\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v12\\values-v12.xml",
+                    "file": "C:\\Users\\888888888\\.android\\build-cache\\bbb694666630db9c6d7c8fa14a219eb6885585ee\\output\\res\\values-v12\\values-v12.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -33,7 +33,7 @@
                     "endOffset": 474
                 },
                 "from": {
-                    "file": "C:\\Users\\billy\\Desktop\\App\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v12\\values-v12.xml",
+                    "file": "C:\\Users\\888888888\\.android\\build-cache\\bbb694666630db9c6d7c8fa14a219eb6885585ee\\output\\res\\values-v12\\values-v12.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -53,7 +53,7 @@
                     "endOffset": 593
                 },
                 "from": {
-                    "file": "C:\\Users\\billy\\Desktop\\App\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v12\\values-v12.xml",
+                    "file": "C:\\Users\\888888888\\.android\\build-cache\\bbb694666630db9c6d7c8fa14a219eb6885585ee\\output\\res\\values-v12\\values-v12.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -72,7 +72,7 @@
                     "endOffset": 688
                 },
                 "from": {
-                    "file": "C:\\Users\\billy\\Desktop\\App\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v12\\values-v12.xml",
+                    "file": "C:\\Users\\888888888\\.android\\build-cache\\bbb694666630db9c6d7c8fa14a219eb6885585ee\\output\\res\\values-v12\\values-v12.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -85,7 +85,7 @@
         ]
     },
     {
-        "outputFile": "C:\\Users\\billy\\Desktop\\App\\app\\4.26\\MyApplication2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v12\\values-v12.xml",
+        "outputFile": "D:\\work\\Android\\Buy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v12\\values-v12.xml",
         "map": [
             {
                 "to": {
@@ -97,7 +97,7 @@
                     "endOffset": 274
                 },
                 "from": {
-                    "file": "C:\\Users\\billy\\Desktop\\App\\app\\4.26\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v12\\values-v12.xml",
+                    "file": "C:\\Users\\888888888\\.android\\build-cache\\bbb694666630db9c6d7c8fa14a219eb6885585ee\\output\\res\\values-v12\\values-v12.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -118,7 +118,7 @@
                     "endOffset": 474
                 },
                 "from": {
-                    "file": "C:\\Users\\billy\\Desktop\\App\\app\\4.26\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v12\\values-v12.xml",
+                    "file": "C:\\Users\\888888888\\.android\\build-cache\\bbb694666630db9c6d7c8fa14a219eb6885585ee\\output\\res\\values-v12\\values-v12.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -138,7 +138,7 @@
                     "endOffset": 593
                 },
                 "from": {
-                    "file": "C:\\Users\\billy\\Desktop\\App\\app\\4.26\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v12\\values-v12.xml",
+                    "file": "C:\\Users\\888888888\\.android\\build-cache\\bbb694666630db9c6d7c8fa14a219eb6885585ee\\output\\res\\values-v12\\values-v12.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -157,262 +157,7 @@
                     "endOffset": 688
                 },
                 "from": {
-                    "file": "C:\\Users\\billy\\Desktop\\App\\app\\4.26\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v12\\values-v12.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 598,
-                        "endColumn": 94,
-                        "endOffset": 688
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "C:\\Users\\billy\\Desktop\\App\\app\\6.1\\MyApplication2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v12\\values-v12.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endLine": 4,
-                    "endColumn": 12,
-                    "endOffset": 274
-                },
-                "from": {
-                    "file": "C:\\Users\\billy\\Desktop\\App\\app\\6.1\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v12\\values-v12.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endLine": 4,
-                        "endColumn": 12,
-                        "endOffset": 274
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 279,
-                    "endLine": 7,
-                    "endColumn": 12,
-                    "endOffset": 474
-                },
-                "from": {
-                    "file": "C:\\Users\\billy\\Desktop\\App\\app\\6.1\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v12\\values-v12.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 279,
-                        "endLine": 7,
-                        "endColumn": 12,
-                        "endOffset": 474
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 479,
-                    "endColumn": 118,
-                    "endOffset": 593
-                },
-                "from": {
-                    "file": "C:\\Users\\billy\\Desktop\\App\\app\\6.1\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v12\\values-v12.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 479,
-                        "endColumn": 118,
-                        "endOffset": 593
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 598,
-                    "endColumn": 94,
-                    "endOffset": 688
-                },
-                "from": {
-                    "file": "C:\\Users\\billy\\Desktop\\App\\app\\6.1\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v12\\values-v12.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 598,
-                        "endColumn": 94,
-                        "endOffset": 688
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "C:\\Users\\billy\\Downloads\\MyApplication2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v12\\values-v12.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endLine": 4,
-                    "endColumn": 12,
-                    "endOffset": 274
-                },
-                "from": {
-                    "file": "C:\\Users\\billy\\Downloads\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v12\\values-v12.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endLine": 4,
-                        "endColumn": 12,
-                        "endOffset": 274
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 279,
-                    "endLine": 7,
-                    "endColumn": 12,
-                    "endOffset": 474
-                },
-                "from": {
-                    "file": "C:\\Users\\billy\\Downloads\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v12\\values-v12.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 279,
-                        "endLine": 7,
-                        "endColumn": 12,
-                        "endOffset": 474
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 479,
-                    "endColumn": 118,
-                    "endOffset": 593
-                },
-                "from": {
-                    "file": "C:\\Users\\billy\\Downloads\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v12\\values-v12.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 479,
-                        "endColumn": 118,
-                        "endOffset": 593
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 598,
-                    "endColumn": 94,
-                    "endOffset": 688
-                },
-                "from": {
-                    "file": "C:\\Users\\billy\\Downloads\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v12\\values-v12.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 598,
-                        "endColumn": 94,
-                        "endOffset": 688
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "C:\\Users\\user\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v12\\values-v12.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endLine": 4,
-                    "endColumn": 12,
-                    "endOffset": 274
-                },
-                "from": {
-                    "file": "C:\\Users\\user\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v12\\values-v12.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endLine": 4,
-                        "endColumn": 12,
-                        "endOffset": 274
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 279,
-                    "endLine": 7,
-                    "endColumn": 12,
-                    "endOffset": 474
-                },
-                "from": {
-                    "file": "C:\\Users\\user\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v12\\values-v12.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 279,
-                        "endLine": 7,
-                        "endColumn": 12,
-                        "endOffset": 474
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 479,
-                    "endColumn": 118,
-                    "endOffset": 593
-                },
-                "from": {
-                    "file": "C:\\Users\\user\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v12\\values-v12.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 479,
-                        "endColumn": 118,
-                        "endOffset": 593
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 598,
-                    "endColumn": 94,
-                    "endOffset": 688
-                },
-                "from": {
-                    "file": "C:\\Users\\user\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v12\\values-v12.xml",
+                    "file": "C:\\Users\\888888888\\.android\\build-cache\\bbb694666630db9c6d7c8fa14a219eb6885585ee\\output\\res\\values-v12\\values-v12.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,

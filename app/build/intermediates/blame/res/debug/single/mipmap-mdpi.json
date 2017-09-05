@@ -1,26 +1,18 @@
 [
     {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\app\\6.1\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
-        "source": "C:\\Users\\billy\\Desktop\\App\\app\\6.1\\MyApplication2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+        "merged": "D:\\1\\Android\\Buy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_search.png",
+        "source": "D:\\1\\Android\\Buy\\app\\src\\main\\res\\mipmap-mdpi\\ic_search.png"
     },
     {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\app\\6.1\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_search.png",
-        "source": "C:\\Users\\billy\\Desktop\\App\\app\\6.1\\MyApplication2\\app\\src\\main\\res\\mipmap-mdpi\\ic_search.png"
+        "merged": "D:\\work\\Android\\Buy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_search.png",
+        "source": "D:\\work\\Android\\Buy\\app\\src\\main\\res\\mipmap-mdpi\\ic_search.png"
     },
     {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\app\\4.26\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
-        "source": "C:\\Users\\billy\\Desktop\\App\\app\\4.26\\MyApplication2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+        "merged": "D:\\1\\Android\\Buy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "D:\\1\\Android\\Buy\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\billy\\Desktop\\App\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
-        "source": "C:\\Users\\billy\\Desktop\\App\\MyApplication2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "C:\\Users\\billy\\Downloads\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
-        "source": "C:\\Users\\billy\\Downloads\\MyApplication2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
-        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+        "merged": "D:\\work\\Android\\Buy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "D:\\work\\Android\\Buy\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     }
 ]

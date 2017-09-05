@@ -1,124 +1,124 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\src\main\AndroidManifest.xml:2:1-48:12
+ADDED from D:\work\Android\Buy\app\src\main\AndroidManifest.xml:2:1-48:12
 	package
-		ADDED from C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\src\main\AndroidManifest.xml:3:5-45
-		INJECTED from C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\src\main\AndroidManifest.xml
+		ADDED from D:\work\Android\Buy\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from D:\work\Android\Buy\app\src\main\AndroidManifest.xml
+		INJECTED from D:\work\Android\Buy\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\work\Android\Buy\app\src\main\AndroidManifest.xml
+		INJECTED from D:\work\Android\Buy\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\work\Android\Buy\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\work\Android\Buy\app\src\main\AndroidManifest.xml
+		INJECTED from D:\work\Android\Buy\app\src\main\AndroidManifest.xml
 application
-ADDED from C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\src\main\AndroidManifest.xml:5:5-46:19
-MERGED from [com.android.support:design:25.1.0] C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\build\intermediates\exploded-aar\com.android.support\design\25.1.0\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:transition:25.1.0] C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.0\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:25.1.0] C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:25.1.0] C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.2\AndroidManifest.xml:9:5-20
+ADDED from D:\work\Android\Buy\app\src\main\AndroidManifest.xml:5:5-46:19
+MERGED from [com.android.support:design:25.1.0] C:\Users\888888888\.android\build-cache\37535eb77bcf31596916650afb27e4d189df2472\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\888888888\.android\build-cache\bbb694666630db9c6d7c8fa14a219eb6885585ee\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\888888888\.android\build-cache\88f532bb55eff266bfc93f9cfda1bf4a86c2fdc6\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\888888888\.android\build-cache\367fe99f707e84fc8e40c4ac33edbfe97bc3ad16\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.1.0] C:\Users\888888888\.android\build-cache\b7c5fba4ca7ba4fcea1495e8a017cf915f70c5ba\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\888888888\.android\build-cache\222c9edc711c146d2e1bf4e9d36e5bcda365253a\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\888888888\.android\build-cache\48a0f89c85a79031d9422f3c5911b3d2e5a70a65\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\888888888\.android\build-cache\c4319046f727f6f86832a3dcd26d2d00c89a10f4\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\888888888\.android\build-cache\66b3041ac1678ec21683aa2f3f68ff92d9a06c5e\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\888888888\.android\build-cache\ad6568f9050c162879db9678da42e953763e84db\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\888888888\.android\build-cache\941119502cf72490ebfc52b85c2ac418905d396d\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\888888888\.android\build-cache\90bc7e8230edabbacb1799dcaaac0e66c0a81f1a\output\AndroidManifest.xml:9:5-20
 	android:label
-		ADDED from C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from D:\work\Android\Buy\app\src\main\AndroidManifest.xml:8:9-41
 	android:supportsRtl
-		ADDED from C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\src\main\AndroidManifest.xml:9:9-35
+		ADDED from D:\work\Android\Buy\app\src\main\AndroidManifest.xml:9:9-35
 	android:allowBackup
-		ADDED from C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from D:\work\Android\Buy\app\src\main\AndroidManifest.xml:6:9-35
 	android:icon
-		ADDED from C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from D:\work\Android\Buy\app\src\main\AndroidManifest.xml:7:9-43
 	android:theme
-		ADDED from C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\src\main\AndroidManifest.xml:10:9-40
+		ADDED from D:\work\Android\Buy\app\src\main\AndroidManifest.xml:10:9-40
 activity#com.example.user.myapplication.MainActivity
-ADDED from C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\src\main\AndroidManifest.xml:11:9-20:20
+ADDED from D:\work\Android\Buy\app\src\main\AndroidManifest.xml:11:9-20:20
 	android:label
-		ADDED from C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\src\main\AndroidManifest.xml:13:13-45
+		ADDED from D:\work\Android\Buy\app\src\main\AndroidManifest.xml:13:13-45
 	android:theme
-		ADDED from C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\src\main\AndroidManifest.xml:14:13-56
+		ADDED from D:\work\Android\Buy\app\src\main\AndroidManifest.xml:14:13-56
 	android:name
-		ADDED from C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\src\main\AndroidManifest.xml:12:13-41
+		ADDED from D:\work\Android\Buy\app\src\main\AndroidManifest.xml:12:13-41
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\src\main\AndroidManifest.xml:15:13-19:29
+ADDED from D:\work\Android\Buy\app\src\main\AndroidManifest.xml:15:13-19:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\src\main\AndroidManifest.xml:16:17-69
+ADDED from D:\work\Android\Buy\app\src\main\AndroidManifest.xml:16:17-69
 	android:name
-		ADDED from C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\src\main\AndroidManifest.xml:16:25-66
+		ADDED from D:\work\Android\Buy\app\src\main\AndroidManifest.xml:16:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\src\main\AndroidManifest.xml:18:17-77
+ADDED from D:\work\Android\Buy\app\src\main\AndroidManifest.xml:18:17-77
 	android:name
-		ADDED from C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\src\main\AndroidManifest.xml:18:27-74
+		ADDED from D:\work\Android\Buy\app\src\main\AndroidManifest.xml:18:27-74
 activity#com.example.user.myapplication.SearchableActivity
-ADDED from C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\src\main\AndroidManifest.xml:21:9-35:20
+ADDED from D:\work\Android\Buy\app\src\main\AndroidManifest.xml:21:9-35:20
 	android:launchMode
-		ADDED from C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\src\main\AndroidManifest.xml:23:13-43
+		ADDED from D:\work\Android\Buy\app\src\main\AndroidManifest.xml:23:13-43
 	android:theme
-		ADDED from C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\src\main\AndroidManifest.xml:24:13-57
+		ADDED from D:\work\Android\Buy\app\src\main\AndroidManifest.xml:24:13-57
 	android:name
-		ADDED from C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\src\main\AndroidManifest.xml:22:13-47
+		ADDED from D:\work\Android\Buy\app\src\main\AndroidManifest.xml:22:13-47
 intent-filter#android.intent.action.SEARCH
-ADDED from C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\src\main\AndroidManifest.xml:25:13-27:29
+ADDED from D:\work\Android\Buy\app\src\main\AndroidManifest.xml:25:13-27:29
 action#android.intent.action.SEARCH
-ADDED from C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\src\main\AndroidManifest.xml:26:17-71
+ADDED from D:\work\Android\Buy\app\src\main\AndroidManifest.xml:26:17-71
 	android:name
-		ADDED from C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\src\main\AndroidManifest.xml:26:25-68
+		ADDED from D:\work\Android\Buy\app\src\main\AndroidManifest.xml:26:25-68
 intent-filter#android.intent.action.VIEW
-ADDED from C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\src\main\AndroidManifest.xml:28:13-30:29
+ADDED from D:\work\Android\Buy\app\src\main\AndroidManifest.xml:28:13-30:29
 action#android.intent.action.VIEW
-ADDED from C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\src\main\AndroidManifest.xml:29:17-69
+ADDED from D:\work\Android\Buy\app\src\main\AndroidManifest.xml:29:17-69
 	android:name
-		ADDED from C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\src\main\AndroidManifest.xml:29:25-66
+		ADDED from D:\work\Android\Buy\app\src\main\AndroidManifest.xml:29:25-66
 meta-data#android.app.searchable
-ADDED from C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\src\main\AndroidManifest.xml:32:13-34:54
+ADDED from D:\work\Android\Buy\app\src\main\AndroidManifest.xml:32:13-34:54
 	android:resource
-		ADDED from C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\src\main\AndroidManifest.xml:34:17-51
+		ADDED from D:\work\Android\Buy\app\src\main\AndroidManifest.xml:34:17-51
 	android:name
-		ADDED from C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\src\main\AndroidManifest.xml:33:17-54
+		ADDED from D:\work\Android\Buy\app\src\main\AndroidManifest.xml:33:17-54
 meta-data#android.app.default_searchable
-ADDED from C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\src\main\AndroidManifest.xml:37:9-39:51
+ADDED from D:\work\Android\Buy\app\src\main\AndroidManifest.xml:37:9-39:51
 	android:value
-		ADDED from C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\src\main\AndroidManifest.xml:39:13-48
+		ADDED from D:\work\Android\Buy\app\src\main\AndroidManifest.xml:39:13-48
 	android:name
-		ADDED from C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\src\main\AndroidManifest.xml:38:13-58
+		ADDED from D:\work\Android\Buy\app\src\main\AndroidManifest.xml:38:13-58
 activity#com.example.user.myapplication.FinanceActivity
-ADDED from C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\src\main\AndroidManifest.xml:41:9-44:59
+ADDED from D:\work\Android\Buy\app\src\main\AndroidManifest.xml:41:9-44:59
 	android:label
-		ADDED from C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\src\main\AndroidManifest.xml:43:13-59
+		ADDED from D:\work\Android\Buy\app\src\main\AndroidManifest.xml:43:13-59
 	android:theme
-		ADDED from C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\src\main\AndroidManifest.xml:44:13-56
+		ADDED from D:\work\Android\Buy\app\src\main\AndroidManifest.xml:44:13-56
 	android:name
-		ADDED from C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\src\main\AndroidManifest.xml:42:13-44
+		ADDED from D:\work\Android\Buy\app\src\main\AndroidManifest.xml:42:13-44
 activity#com.example.user.myapplication.AddActivity
-ADDED from C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\src\main\AndroidManifest.xml:45:9-58
+ADDED from D:\work\Android\Buy\app\src\main\AndroidManifest.xml:45:9-58
 	android:name
-		ADDED from C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\src\main\AndroidManifest.xml:45:19-46
+		ADDED from D:\work\Android\Buy\app\src\main\AndroidManifest.xml:45:19-46
 uses-sdk
-INJECTED from C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:design:25.1.0] C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\build\intermediates\exploded-aar\com.android.support\design\25.1.0\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:recyclerview-v7:25.1.0] C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:transition:25.1.0] C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:25.1.0] C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:25.1.0] C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.2\AndroidManifest.xml:5:5-7:41
+INJECTED from D:\work\Android\Buy\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.1.0] C:\Users\888888888\.android\build-cache\37535eb77bcf31596916650afb27e4d189df2472\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\888888888\.android\build-cache\bbb694666630db9c6d7c8fa14a219eb6885585ee\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\888888888\.android\build-cache\88f532bb55eff266bfc93f9cfda1bf4a86c2fdc6\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\888888888\.android\build-cache\367fe99f707e84fc8e40c4ac33edbfe97bc3ad16\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.1.0] C:\Users\888888888\.android\build-cache\d2e017bc6d273e6c524794ab66c68d8cc0d049a5\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.1.0] C:\Users\888888888\.android\build-cache\b7c5fba4ca7ba4fcea1495e8a017cf915f70c5ba\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\888888888\.android\build-cache\222c9edc711c146d2e1bf4e9d36e5bcda365253a\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\888888888\.android\build-cache\48a0f89c85a79031d9422f3c5911b3d2e5a70a65\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\888888888\.android\build-cache\c4319046f727f6f86832a3dcd26d2d00c89a10f4\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\888888888\.android\build-cache\66b3041ac1678ec21683aa2f3f68ff92d9a06c5e\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\888888888\.android\build-cache\ad6568f9050c162879db9678da42e953763e84db\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\888888888\.android\build-cache\941119502cf72490ebfc52b85c2ac418905d396d\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\888888888\.android\build-cache\90bc7e8230edabbacb1799dcaaac0e66c0a81f1a\output\AndroidManifest.xml:5:5-7:41
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:25.1.0] C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\build\intermediates\exploded-aar\com.android.support\design\25.1.0\AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:25.1.0] C:\Users\888888888\.android\build-cache\37535eb77bcf31596916650afb27e4d189df2472\output\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\work\Android\Buy\app\src\main\AndroidManifest.xml
+		INJECTED from D:\work\Android\Buy\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\billy\Desktop\App\app\6.1\MyApplication2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\work\Android\Buy\app\src\main\AndroidManifest.xml
+		INJECTED from D:\work\Android\Buy\app\src\main\AndroidManifest.xml
