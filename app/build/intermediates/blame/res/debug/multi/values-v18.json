@@ -1,30 +1,6 @@
 [
     {
-        "outputFile": "D:\\1\\Android\\Buy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v18\\values-v18.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 48,
-                    "endOffset": 99
-                },
-                "from": {
-                    "file": "C:\\Users\\888888888\\.android\\build-cache\\bbb694666630db9c6d7c8fa14a219eb6885585ee\\output\\res\\values-v18\\values-v18.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 48,
-                        "endOffset": 99
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "D:\\work\\Android\\Buy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v18\\values-v18.xml",
+        "outputFile": "D:\\schoolproject\\Android\\Buy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v18\\values-v18.xml",
         "map": [
             {
                 "to": {

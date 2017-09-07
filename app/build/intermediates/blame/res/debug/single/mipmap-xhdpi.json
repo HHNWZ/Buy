@@ -1,18 +1,10 @@
 [
     {
-        "merged": "D:\\1\\Android\\Buy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
-        "source": "D:\\1\\Android\\Buy\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+        "merged": "D:\\schoolproject\\Android\\Buy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "D:\\schoolproject\\Android\\Buy\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\work\\Android\\Buy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
-        "source": "D:\\work\\Android\\Buy\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "D:\\work\\Android\\Buy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_search.png",
-        "source": "D:\\work\\Android\\Buy\\app\\src\\main\\res\\mipmap-xhdpi\\ic_search.png"
-    },
-    {
-        "merged": "D:\\1\\Android\\Buy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_search.png",
-        "source": "D:\\1\\Android\\Buy\\app\\src\\main\\res\\mipmap-xhdpi\\ic_search.png"
+        "merged": "D:\\schoolproject\\Android\\Buy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_search.png",
+        "source": "D:\\schoolproject\\Android\\Buy\\app\\src\\main\\res\\mipmap-xhdpi\\ic_search.png"
     }
 ]

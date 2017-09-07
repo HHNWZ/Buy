@@ -3,21 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="D:\1\Android\Buy\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="D:\schoolproject\Android\Buy\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="391a1ebdcb6ea543257c7b119ac92814e6980fc7">
+        <dex dex="D:\schoolproject\Android\Buy\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_6e96b593c678fb5ac8976f2be61978d7e9d52f52\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\schoolproject\Android\Buy\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="D:\1\Android\Buy\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_00cb9d3aba0ae9752455133f1be1f48e112717af\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\1\Android\Buy\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b8faa7c4e57a7e6c48351f4a4fe6e8cf630bafbe">
-        <dex dex="D:\1\Android\Buy\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_6e8122aaa226cc11104a98ca255159ccc05fc25e\classes.dex" />
+        <dex dex="D:\schoolproject\Android\Buy\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e22e8ccb2ff68f53b87f6db23fe0b328c266092b\classes.dex" />
     </item>
 
 </items>

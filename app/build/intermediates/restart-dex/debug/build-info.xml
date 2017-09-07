@@ -6,99 +6,99 @@
     density="xxhdpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1501815988103"
-    token="3049125017063491733"
+    timestamp="1504612896670"
+    token="-6656849581201437995"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="3359" />
+        duration="3042" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="2125" />
+        duration="2140" />
     <task
         name="verifier"
-        duration="359" />
+        duration="570" />
 
     <artifact
-        location="D:\1\Android\Buy\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+        location="D:\schoolproject\Android\Buy\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
         type="SPLIT" />
     <artifact
-        location="D:\1\Android\Buy\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+        location="D:\schoolproject\Android\Buy\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
         type="SPLIT" />
     <artifact
-        location="D:\1\Android\Buy\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+        location="D:\schoolproject\Android\Buy\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
         type="SPLIT" />
     <artifact
-        location="D:\1\Android\Buy\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+        location="D:\schoolproject\Android\Buy\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
         type="SPLIT" />
     <artifact
-        location="D:\1\Android\Buy\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+        location="D:\schoolproject\Android\Buy\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
         type="SPLIT" />
     <artifact
-        location="D:\1\Android\Buy\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+        location="D:\schoolproject\Android\Buy\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
         type="SPLIT" />
     <artifact
-        location="D:\1\Android\Buy\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+        location="D:\schoolproject\Android\Buy\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
         type="SPLIT" />
     <artifact
-        location="D:\1\Android\Buy\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+        location="D:\schoolproject\Android\Buy\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
         type="SPLIT" />
     <artifact
-        location="D:\1\Android\Buy\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+        location="D:\schoolproject\Android\Buy\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
         type="SPLIT" />
     <artifact
-        location="D:\1\Android\Buy\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+        location="D:\schoolproject\Android\Buy\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
         type="SPLIT" />
     <artifact
-        location="D:\1\Android\Buy\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+        location="D:\schoolproject\Android\Buy\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
         type="SPLIT" />
     <artifact
-        location="D:\1\Android\Buy\app\build\outputs\apk\app-debug.apk"
+        location="D:\schoolproject\Android\Buy\app\build\outputs\apk\app-debug.apk"
         type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1501815988103"
+        timestamp="1504612896670"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="D:\1\Android\Buy\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            location="D:\schoolproject\Android\Buy\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
             type="SPLIT" />
         <artifact
-            location="D:\1\Android\Buy\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            location="D:\schoolproject\Android\Buy\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
             type="SPLIT" />
         <artifact
-            location="D:\1\Android\Buy\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            location="D:\schoolproject\Android\Buy\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="D:\1\Android\Buy\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            location="D:\schoolproject\Android\Buy\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="D:\1\Android\Buy\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+            location="D:\schoolproject\Android\Buy\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
             type="SPLIT" />
         <artifact
-            location="D:\1\Android\Buy\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            location="D:\schoolproject\Android\Buy\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
             type="SPLIT" />
         <artifact
-            location="D:\1\Android\Buy\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            location="D:\schoolproject\Android\Buy\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
             type="SPLIT" />
         <artifact
-            location="D:\1\Android\Buy\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            location="D:\schoolproject\Android\Buy\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
             type="SPLIT" />
         <artifact
-            location="D:\1\Android\Buy\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            location="D:\schoolproject\Android\Buy\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
             type="SPLIT" />
         <artifact
-            location="D:\1\Android\Buy\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            location="D:\schoolproject\Android\Buy\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
             type="SPLIT" />
         <artifact
-            location="D:\1\Android\Buy\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            location="D:\schoolproject\Android\Buy\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
             type="SPLIT" />
         <artifact
-            location="D:\1\Android\Buy\app\build\outputs\apk\app-debug.apk"
+            location="D:\schoolproject\Android\Buy\app\build\outputs\apk\app-debug.apk"
             type="SPLIT_MAIN" />
     </build>
 
